@@ -2,6 +2,10 @@
 
 Este é um programa em Python desenvolvido para gerenciar, simular e gerar relatórios sobre o consumo de energia de equipamentos. É eficaz principalmente para estimar custos de consumo e auxiliar no monitoramento.
 
+## Autor
+Gustavo Atanazio <br>
+RM: 559098
+
 ## 🛡️ Requisitos
 
 - Python 3.13.0 ou superior.
@@ -111,9 +115,3 @@ nome: TV
 consumo: 0.5
 horas: 20
 ```
-
----
-
-## Autor
-Gustavo Atanazio <br>
-RM: 559098
